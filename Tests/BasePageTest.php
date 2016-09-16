@@ -8,7 +8,7 @@ use Modules\Core\Providers\CoreServiceProvider;
 use Modules\Page\Providers\PageServiceProvider;
 use Modules\Page\Repositories\PageRepository;
 use Orchestra\Testbench\TestCase;
-use Pingpong\Modules\ModulesServiceProvider;
+use Nwidart\Modules\ModulesServiceProvider;
 use Illuminate\Contracts\Console\Kernel;
 
 abstract class BasePageTest extends TestCase
