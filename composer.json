@@ -1,5 +1,5 @@
 {
-  "name": "asgardcms/page-module",
+  "name": "jjsoft-ar/page-module",
   "type": "asgard-module",
   "description": "Page module for AsgardCMS. Page management.",
   "keywords": [
@@ -22,7 +22,7 @@
   "require": {
     "php": ">=5.4",
     "composer/installers": "~1.0",
-    "asgardcms/core-module": "~1.0",
+    "jjsoft-ar/core-module": "~1.0",
     "dimsav/laravel-translatable": "~5.0"
   },
   "require-dev": {
